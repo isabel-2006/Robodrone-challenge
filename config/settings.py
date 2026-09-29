@@ -1,0 +1,9 @@
+WINDOW_TITLE = "Drone Flight Training Simulator"
+
+GROUND_SIZE = 100
+
+DRONE_START_POSITION = (0, 5, 0)
+
+CAMERA_POSITION = (12, 10, -20)
+
+CAMERA_LOOK_AT = (0, 2, 0)
